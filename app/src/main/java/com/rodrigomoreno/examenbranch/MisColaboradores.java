@@ -37,7 +37,7 @@ public class MisColaboradores extends AppCompatActivity {
 
     private void getConsumo(){
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("https://dl.dropboxusercontent.com/s/5u21281sca8gj94/")
+                .baseUrl("https://dl.dropboxusercontent.com/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
         JsonPlaceHolder jsonPlaceHolder = retrofit.create(JsonPlaceHolder.class);
@@ -60,7 +60,7 @@ public class MisColaboradores extends AppCompatActivity {
                     content += "code" + consumo.getCode();
                     content += "success" + consumo.getSuccess();
                     mJsonTextView.append(content);
-                    
+
 
                 }
 

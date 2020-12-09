@@ -10,8 +10,9 @@ import retrofit2.Call;
 import retrofit2.http.GET;
 
 public interface JsonPlaceHolder {
+    String key = "0";
 
-    @GET("getFile.json?dl=0")
+    @GET("s/5u21281sca8gj94/getFile.json?dl="+key)
     Call<List<Consumo>> getConsumos();
 
 }
