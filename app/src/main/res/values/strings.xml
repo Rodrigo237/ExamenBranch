@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Examen_Branch</string>
+    <string name="registrar_usuario">Registrar</string>
+    <string name="miscolaboradores">Mis Colaboradores</string>
+    <string name="agregar_colaborador">Agregar Colaborador</string>
+    <string name="location_colab">Location</string>
+    <string name="latitud">latitud</string>
+    <string name="longitud">longitud</string>
+    <string name="agregar">Agregar</string>
 </resources>

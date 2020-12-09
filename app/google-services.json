@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533691049271",
+    "project_id": "examen-rodrigom",
+    "storage_bucket": "examen-rodrigom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533691049271:android:61ed07932d4fae173f26b2",
+        "android_client_info": {
+          "package_name": "com.rodrigomoreno.examenbranch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533691049271-ntpu26tcf96p7gfmunj3o3htefa11e2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTnI5HLFcgSLEK0cegkmWxqYWQa4BZUQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533691049271-ntpu26tcf96p7gfmunj3o3htefa11e2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
